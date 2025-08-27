@@ -1,0 +1,11 @@
+langchain-community
+langchain-core
+tqdm
+pypdf
+langchain-huggingface 
+sentence-transformers
+faiss-cpu
+openai
+langchain-openai
+fastapi
+streamlit
